@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -20,15 +20,15 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import Postman from "./tech/Postman.svg";
+import Vercel from "./tech/Vercel.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import usermanagement from './user-management.png';
+import passwordmanager from './neovault.png';
+import gitsniffer from './gitsniffer.png';
 
 export {
   logo,
@@ -43,20 +43,20 @@ export {
   docker,
   figma,
   git,
+  Vercel,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
+  Postman,
   redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
-  tripguide,
+  usermanagement,
+  gitsniffer,
+  passwordmanager
 };
